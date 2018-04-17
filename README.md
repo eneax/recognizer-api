@@ -5,7 +5,7 @@
 3. Run `npm start`
 4. You have to add your own API key in the `controllers/image.js` file in order to connect to the Clarifai API.
 
-You can grab a free Clarifai API key ![here](https://www.clarifai.com/).
+You can grab a free Clarifai API key [here](https://www.clarifai.com/).
 
 ## Examples
 ![the-big-bang-theory](https://github.com/eneax/recognizer/blob/master/examples/big-bang.png)
